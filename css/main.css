@@ -1,0 +1,131 @@
+body {
+	font-family: 'Share Tech Mono' ;
+	background-color: #f3f3f3;
+	}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: orange;
+	text-decoration: line-through;
+}
+
+.content {
+	margin-top: 75px;
+}
+
+/*---------navigation css------*/
+.container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.links-nav {
+	float: right;
+	font-size: 12px;
+}
+
+
+
+.name {
+	float: left;
+	font-size: 12px;
+}
+
+.nav {
+	padding-bottom: 20px;
+}
+
+hr {
+	color: black;
+    background: black;
+    width: 100%;
+    height: 1px;
+}
+
+.content p {
+	text-align: center;
+	font-size: 12px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.content a {
+	color: black;
+	text-decoration: underline;
+}
+
+.content a:hover {
+	text-decoration: line-through;
+	color: orange;
+}
+
+
+/*------about css----*/
+
+
+.about-content img {
+	width: 100%;
+}
+
+.about-img-caption {
+	font-size: 10px;
+	text-align: center;
+}
+
+.about-left {
+	width: 35%;
+	float: left;
+}
+
+.about-right {
+	float: right;
+	width:65%;
+}
+.about-text {
+	margin-left: 10%;
+}
+
+
+/*----------work cause thats the point-------*/
+.work-content {
+	float: right;
+	width: 75%;
+	margin-left: 10%;
+	position: inherit;
+}
+
+.work-content h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.work-content p {
+	text-align: center;
+	font-size: 12px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+
+.links-work {
+	float: left;
+	width: 200px;
+	font-size: 12px;
+	position: fixed;
+}
+
+.links-work li {
+	list-style-type: none;
+}
+
+.links-work a {
+	text-decoration: none;
+}
+
+.purple {
+	text-align: center;
+	color: purple;
+}
